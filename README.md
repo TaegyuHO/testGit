@@ -33,3 +33,4 @@
 github: https://github.com/TaegyuHo
 email: dio_g@naver.com
 blog: http://dio_g.blog.me
+https://blog.naver.com/hotaegyu/222225078865
